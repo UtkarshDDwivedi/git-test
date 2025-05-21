@@ -1,0 +1,2 @@
+Hello world, it's me Utkarsh
+Finally started learning git and github thanks to The Odin Project
